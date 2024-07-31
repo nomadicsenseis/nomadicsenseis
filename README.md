@@ -1,7 +1,30 @@
-### Hi there 👋
+# Professional Overview
 
-I'm Diego from Spain. Generally speaking, I'm a person who loves challenges and who sees beauty in anything that makes me think. I enjoy philosophizing while doing outdoor sports in my free time. 
+**Physicist. Mathematician.**  
+*A genuine passion for learning.*  
+*I find pleasure in philosophizing while doing outdoor sports.*
 
-That being said, I have a Spanish Degree in Mathematics (240 credits, 4 years) and another Spanish Degree in Physics (240 credits, 4 years). Although I learnt many usefull skills during my time at University (such as OOP in Java and Python, coding optimization algorithms with Matlab and C++, and Machine and Deep Learning with R and Python (Numpy, Pandas, MatplotLib, TensorFlow, PyTorch and NLP frameworks as SciPy, NLKT, HuggingFace)) I think the most important fact that my studies showcase is my ability to learn and face problems on a logical and mathematical way, alongside with my resilience to finish what I have started.
+---
 
-Now, truth being told I also learnt many things outside my current line of work, such as Quatum Field Theory, General Relativity, etc. So, after I was done with my studies I had to reinvent myself and apply my skills into learning some knowledge that was valuable to the field I found myself at. Therefore, I decided to study Deep Neural networks such as Transformers, GANs, and Diffussers, which you can find implemented alongside some of my own explainatory comments on my reps. I also decided to dive into the study of the lifecycle of a machine Learning Project into Production, in particular with Google Cloud Platform (my current company works in the GCP), so some of the project you will find are focus on that. I also though It would help if I certiffied my skills so I got took the Google's Professional Machine Learning Exam Certification. 
+In my professional journey, I've been exploring several areas:
+
+## 1) Large Language Models (LLMs)
+I'm currently working with HuggingFace's pretrained models, focusing on fine-tuning and managing multi-agent systems with tools like LangChain and LlamaIndex. I’ve also ventured into creating transformer architectures, including a full Encoder-Decoder model and a Vision Transformer (ViT), though their training remains a future goal due to cost constraints.
+
+## 2) MLOps
+My experience ranges from initial development in notebooks to full-scale production. I use tools like:
+- Airflow
+- SageMaker Pipelines
+- Kubeflow
+- Vertex AI Pipelines
+
+I've built systems using Spark and various cloud services for distributed training. I'm also learning to create user-friendly interfaces with Streamlit and Gradio. Containerization with Docker and deployment using Kubernetes or cloud services are areas where I'm growing my skills.
+
+## 3) Model Explainability
+I believe in making AI more understandable. I use SHAP (SHapley Additive exPlanations) to help shed light on how machine learning models make decisions, constantly learning about the different explainers and their relationship with various ML algorithms. The impact of independent variables in these models is something I find particularly intriguing.
+
+## 4) Time Series
+I'm delving into Time Series Forecasting, treating it as a regression problem through machine/deep learning methods. I’m familiar with using Darts, integrating it with Optuna for optimization, and exploring SHAP for added clarity.
+
+---
+
