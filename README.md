@@ -1,5 +1,3 @@
-# Professional Overview
-
 **Physicist. Mathematician.**  
 *A genuine passion for learning.*  
 *I find pleasure in philosophizing while doing outdoor sports.*
